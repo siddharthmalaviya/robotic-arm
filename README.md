@@ -1,4 +1,3 @@
-# Robotic Arm Project
 
 ## Overview
 This project involves designing and implementing a robotic arm capable of performing precise and versatile tasks such as object manipulation, assembly, and sorting. The robotic arm combines advanced hardware and software systems to deliver scalable and adaptable solutions for automation in industries, research, and education.
